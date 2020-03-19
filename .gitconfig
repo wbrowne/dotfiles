@@ -1,0 +1,5 @@
+[core]
+	excludesfile = /Users/wbrowne/.gitignore_global
+[user]
+	name = wbrowne
+	email = wbrowne@tcd.ie
